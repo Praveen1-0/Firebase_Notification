@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "141139046503",
+    "project_id": "basicnotification-f7b17",
+    "storage_bucket": "basicnotification-f7b17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141139046503:android:c0f2b01a23be1c30a1e4c2",
+        "android_client_info": {
+          "package_name": "com.example.basicnotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcOoBO2pefpv4biH0crg8QVb9WQqDgw2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
